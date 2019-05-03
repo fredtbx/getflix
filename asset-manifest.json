@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/getflix/static/css/main.3d46babe.chunk.css",
-    "main.js": "/getflix/static/js/main.73bd660f.chunk.js",
-    "main.js.map": "/getflix/static/js/main.73bd660f.chunk.js.map",
+    "main.js": "/getflix/static/js/main.2a49765c.chunk.js",
+    "main.js.map": "/getflix/static/js/main.2a49765c.chunk.js.map",
     "runtime~main.js": "/getflix/static/js/runtime~main.cbe477ce.js",
     "runtime~main.js.map": "/getflix/static/js/runtime~main.cbe477ce.js.map",
     "static/js/2.a6aeab30.chunk.js": "/getflix/static/js/2.a6aeab30.chunk.js",
     "static/js/2.a6aeab30.chunk.js.map": "/getflix/static/js/2.a6aeab30.chunk.js.map",
     "index.html": "/getflix/index.html",
-    "precache-manifest.32db5ca14b9f177ba14797bdbfc52263.js": "/getflix/precache-manifest.32db5ca14b9f177ba14797bdbfc52263.js",
+    "precache-manifest.d83af5deca62a84605b567a3427cfae3.js": "/getflix/precache-manifest.d83af5deca62a84605b567a3427cfae3.js",
     "service-worker.js": "/getflix/service-worker.js",
     "static/css/main.3d46babe.chunk.css.map": "/getflix/static/css/main.3d46babe.chunk.css.map"
   }
