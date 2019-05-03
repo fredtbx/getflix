@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b6f962802cf053325fb44b0f595f950",
+    "revision": "6d399031666832ecbde1dcf6c9feca9c",
     "url": "/getflix/index.html"
   },
   {
-    "revision": "5e8e8a81ab0347a39e27",
+    "revision": "ce69d139822fd6188778",
     "url": "/getflix/static/css/main.3d46babe.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/getflix/static/js/2.a6aeab30.chunk.js"
   },
   {
-    "revision": "5e8e8a81ab0347a39e27",
-    "url": "/getflix/static/js/main.52e4ce0a.chunk.js"
+    "revision": "ce69d139822fd6188778",
+    "url": "/getflix/static/js/main.73bd660f.chunk.js"
   },
   {
     "revision": "b4d66ab2dbac5a1d6f85",
