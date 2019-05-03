@@ -1,0 +1,4 @@
+To ensure that a file in a sub directory works correctly 
+enter thebasename into browser router, ex - <BrowserRouter basename="/getflix/">
+
+Enter homepage parameter into the end of package.json
