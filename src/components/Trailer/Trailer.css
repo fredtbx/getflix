@@ -1,0 +1,9 @@
+.rmdb-trailer {
+  text-align: center;
+  background-color: black;
+  margin: auto;
+}
+
+.rmdb-trailer-container {
+  display: inline-block;
+}

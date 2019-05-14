@@ -10,6 +10,7 @@ import './Movie.css';
 
 class Movie extends Component {
   state = {
+    movie_Id: null,
     movie: null,
     actors: null,
     directors: [],
@@ -24,6 +25,7 @@ class Movie extends Component {
   }
 
   fetchItems = (endpoint) => {
+    console.log(endpoint)
     fetch(endpoint)
       .then(result => result.json())
       .then(result => {
@@ -56,7 +58,7 @@ class Movie extends Component {
       <div className="rmdb-movie">
         {this.state.movie ?
           <div>     
-            <Navigation movie={this.props.location.movieName} />
+            <Navigation movie={this.props.location.movieName} movie_Id={this.props.match.params.movieId} />
             <MovieInfo movie={this.state.movie} directors={this.state.directors} />
             <MovieInfoBar time={this.state.movie.runtime} budget={this.state.movie.budget} revenue={this.state.movie.revenue} />
           </div>

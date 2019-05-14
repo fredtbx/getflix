@@ -26,7 +26,7 @@ class Home extends Component {
   }
 
   searchItems = (searchTerm) => {
-    console.log(searchTerm)
+    //console.log(searchTerm)
     let endpoint = '';
     this.setState({
       movies: [],
