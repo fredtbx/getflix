@@ -26,3 +26,13 @@
   text-decoration: none;
   margin: 0;
 }
+
+.rmdb-trailer p{
+  font-family: 'Abel', sans-serif;
+  font-size: 22px;
+  float: right;
+  color: #fff;
+  padding-right: 10px;
+  text-decoration: none;
+  margin: 0;
+}

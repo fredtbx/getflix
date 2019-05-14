@@ -3,6 +3,7 @@
 
 const API_URL = 'https://api.themoviedb.org/3/';
 const API_KEY = '540ef7b2fe6372d7a5e0798f3eb197cd';
+const YOUTUBE_URL = 'https://www.youtube.com/watch';
 
 // Images
 // An image URL looks like this example:
@@ -19,6 +20,7 @@ const POSTER_SIZE = 'w500';
 export {
   API_URL,
   API_KEY,
+  YOUTUBE_URL,
   IMAGE_BASE_URL,
   BACKDROP_SIZE,
   POSTER_SIZE

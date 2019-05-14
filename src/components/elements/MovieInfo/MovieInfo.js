@@ -18,7 +18,7 @@ const MovieInfo = (props) => {
             clickable={false}
             />
         </div>
-        <div  className="rmdb-movieinfo-text">
+        <div className="rmdb-movieinfo-text">
           <h1>{props.movie.title}</h1>
           <h3>PLOT</h3>
           <p>{props.movie.overview}</p>
