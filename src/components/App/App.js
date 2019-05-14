@@ -8,7 +8,7 @@ import NotFound from '../elements/NotFound/NotFound';
 
 const App = () => {
   return ( 
-    <BrowserRouter>
+    <BrowserRouter basename="/getflix/">
       <React.Fragment>
         <Header />
         <Switch>
